@@ -113,4 +113,12 @@ A continuación, el backlog de tareas necesarias para iniciar y estructurar la e
 - [ ] 🎓 **Estructuración Educativa:** Planificar los módulos del primer juego empresarial corporativo impulsado por IA.
 
 ---
-*Hecho con 🤖 para el futuro de Colombia.*
+
+## 🔗 Enlaces Rápidos
+
+- 💻 **Repositorio en GitHub:** [cubillosxy/lake_docs_company](https://github.com/cubillosxy/lake_docs_company) *(Entra aquí para hacer Fork y colaborar)*
+- 📄 **Guía de Colaboración:** [Manual para Humanos y Agentes de IA](agentes/README.md)
+- 🌐 **Dashboard en Vivo:** [Sitio en GitHub Pages](https://cubillosxy.github.io/lake_docs_company/#/)
+
+---
+*Hecho con 🤖 en 🇨🇴 para el futuro de Colombia.*
