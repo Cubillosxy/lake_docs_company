@@ -6,11 +6,11 @@ El propósito de este proyecto no es alojar el código fuente de los productos f
 
 ## Estructura del Repositorio
 
-- `index.md`: Panel de control principal y resumen de la idea de negocio.
-- `fases.md`: Fases de implementación organizadas por hitos (Épicas).
-- `objetivos.md`: Objetivos a corto y mediano plazo de la empresa.
-- `tareas.md`: Backlog y checklist de las tareas administrativas y tecnológicas.
+- `index.md`: Panel de control principal. Toda la planeación (fases, objetivos, tareas) vive aquí como secciones, siguiendo la regla de "Single Page" para mantener compatibilidad con GitHub Pages.
 - `agentes/`: Directorio destinado a la memoria y almacenamiento de contexto para los agentes de IA.
+  - `agentes/contexto/`: Información profunda sobre la empresa.
+  - `agentes/outputs/`: Resultados de tareas delegadas a los agentes.
+  - `agentes/logs/`: Registro de decisiones y acciones tomadas por los agentes.
 
 ## ¿Cómo visualizar el sitio?
 
@@ -29,26 +29,26 @@ Necesitas tener instalado en tu sistema operativo:
 ### Pasos para ejecución local
 
 1. **Clona el repositorio** y navega hasta la carpeta del proyecto:
-   ```bash
+```bash
    git clone <url-del-repositorio>
    cd lake_docs_company
-   ```
+```
 
 2. **Crea un archivo Gemfile** (si no existe) para instalar Jekyll y las dependencias de GitHub Pages. Puedes crear un archivo llamado `Gemfile` en la raíz con este contenido:
-   ```ruby
+```ruby
    source "https://rubygems.org"
    gem "github-pages", group: :jekyll_plugins
-   ```
+```
 
 3. **Instala las dependencias**:
-   ```bash
+```bash
    bundle install
-   ```
+```
 
 4. **Levanta el servidor local**:
-   ```bash
+```bash
    bundle exec jekyll serve
-   ```
+```
 
 5. **Visualiza el sitio**:
    Abre tu navegador web y visita: `http://localhost:4000`
