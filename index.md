@@ -21,6 +21,7 @@ Somos una agencia innovadora en Colombia enfocada en la intersección del **Mark
 
 - [📍 Fases de Implementación](#-fases-de-implementación)
 - [🎯 Objetivos del Negocio](#-objetivos-del-negocio)
+- [📈 Propuesta Estratégica (Aportes de Carolina)](#-propuesta-estratégica-aportes-de-carolina)
 - [✅ Lista de Tareas (Checklist)](#-lista-de-tareas-checklist)
 - [🧠 Memoria de Agentes AI](agentes/README.md)
 
@@ -111,6 +112,39 @@ A continuación, el backlog de tareas necesarias para iniciar y estructurar la e
 - [ ] 📹 **Protocolos de Video IA:** Definir stack de herramientas y el marco ético/legal (uso de derechos de imagen) para los videos generados.
 - [ ] 🤖 **Portafolio B2B Automation:** Empaquetar los servicios de creación de bots y automatización para que sean fáciles de vender a PyMEs de la región.
 - [ ] 🎓 **Estructuración Educativa:** Planificar los módulos del primer juego empresarial corporativo impulsado por IA.
+
+---
+
+## 📈 Propuesta Estratégica (Aportes de Carolina)
+
+*Nota: Esta sección integra la arquitectura estratégica propuesta por Carolina para complementar el plan de implementación, enfocándose en validación de mercado, posicionamiento y escalamiento.*
+
+### 1. Diferencia Principal de Enfoque
+- **Plan actual (Implementación):** Fases, objetivos, tareas, legalización, primeros clientes.
+- **Aporte estratégico (Carolina):** Arquitectura para decidir qué empresa construir, cómo validarla y cómo hacerla crecer. Define mercado, cliente ideal, modelo económico y métricas de dirección.
+Ambas capas son complementarias: la estrategia define el rumbo y el plan operativo lo ejecuta.
+
+### 2. Decisiones y Elementos Clave
+- **De servicios a problemas:** En lugar de ofrecer "Marketing + IA", se enfoca en ofrecer soluciones a problemas empresariales concretos (ej. fricción en ventas, captación de demanda, producción de contenido).
+- **De tareas a decisiones:** Implementar un ciclo continuo de **Estrategia → Hipótesis → Validación → Decisión → Ejecución → KPI**.
+- **Arquitectura de Oferta (4 pilares):**
+  1. **Growth (Captación):** Ads, funnels, analítica.
+  2. **AI & Automation (Productividad):** Bots, CRM, automatizaciones.
+  3. **AI Content (Producción creativa):** Video/audio asistido por IA.
+  4. **Learning (Capacitación):** Gamificación y talleres.
+- **Economía del negocio:** Analizar margen, recurrencia, costo de adquisición (CAC) y valor del cliente (LTV) como pasos posteriores a conseguir los primeros contratos.
+
+### 3. Integración Sugerida
+
+```text
+ESTRATEGIA (Mercado → Posicionamiento → Oferta → Modelo Económico)
+   ↓
+SISTEMA COMERCIAL (Validación de Oferta)
+   ↓
+ROADMAP Y FASES (El plan operativo actual)
+   ↓
+OPERACIÓN (KPIs → Aprendizaje Continuo)
+```
 
 ---
 
