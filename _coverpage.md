@@ -1,11 +1,13 @@
 <!-- _coverpage.md -->
 
-# Lake Docs Company
+# Agencia de Marketing & IA
 
-> Impulsando el futuro del Marketing con Inteligencia Artificial.
+> Impulsamos el crecimiento de empresas en Colombia combinando estrategia digital, inteligencia artificial y automatización.
 
-* Marketing Digital Integral
-* Contenido Generado por IA (Música & Video)
-* Automatización y Agentes Inteligentes
+* 📈 Growth & Marketing Digital
+* 🤖 AI & Automatización
+* 🎬 Contenido IA (Audio & Video)
+* 🎮 Capacitación & Gamificación
 
-[Iniciar Dashboard](#/index)
+[Explorar Dashboard](#/index)
+[Ver en GitHub](https://github.com/Cubillosxy/lake_docs_company)

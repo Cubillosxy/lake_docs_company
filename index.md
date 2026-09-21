@@ -122,6 +122,7 @@ A continuación, el backlog de tareas necesarias para iniciar y estructurar la e
 ### 1. Diferencia Principal de Enfoque
 - **Plan actual (Implementación):** Fases, objetivos, tareas, legalización, primeros clientes.
 - **Aporte estratégico (Carolina):** Arquitectura para decidir qué empresa construir, cómo validarla y cómo hacerla crecer. Define mercado, cliente ideal, modelo económico y métricas de dirección.
+
 Ambas capas son complementarias: la estrategia define el rumbo y el plan operativo lo ejecuta.
 
 ### 2. Decisiones y Elementos Clave
