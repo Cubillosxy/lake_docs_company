@@ -1,164 +1,77 @@
 # 🚀 Dashboard de Proyecto: Agencia de Marketing e IA
 
-Bienvenidos al panel de control y planificación de nuestra nueva empresa en Colombia. Este repositorio es el **núcleo de información, estado y planificación**, sirviendo tanto para el equipo humano como de memoria para los **Agentes de Inteligencia Artificial** 🤖 que colaborarán con nosotros.
+## 💡 Estrategia y Posicionamiento
 
----
+Somos una agencia colombiana con una misión clara: **integrar estrategia de marketing digital, inteligencia artificial y automatización para ayudar a las empresas a captar demanda, mejorar su atención y operar de manera más eficiente.**
 
-## 💡 Nuestra Idea de Negocio
+En lugar de ofrecer un catálogo suelto de herramientas tecnológicas, organizamos nuestra oferta alrededor de los problemas reales de nuestros clientes mediante una **Arquitectura de 4 Pilares**:
 
-Somos una agencia innovadora en Colombia enfocada en la intersección del **Marketing Digital** y la **Inteligencia Artificial**. Nuestros servicios principales incluyen:
-
-- 📈 **Marketing Digital Integral:** Estrategias completas para posicionamiento.
-- 🎵 **Audio IA:** Creación de canciones con IA para anuncios comerciales o campañas políticas.
-- 🎬 **Video IA:** Producción de videos generados por IA siguiendo estrictos lineamientos éticos.
-- 🎯 **Campañas Ads:** Publicidad hiper-segmentada en internet (SEM/Social Ads).
-- 🤖 **Servicios de IA para Empresas:** Bots de atención, automatizaciones y software a medida para la región.
-- 🎮 **Capacitación y Gamificación:** Juegos empresariales para capacitar personal en nuevas tecnologías e IA.
+1. **Growth (Captación y Conversión):** Estrategias, Ads, funnels y analítica para atraer clientes.
+2. **AI & Automation (Productividad):** Bots, CRM y automatizaciones para reducir el trabajo manual y acelerar la atención.
+3. **AI Content (Producción Creativa):** Video, audio (jingles) y creatividades escaladas mediante inteligencia artificial.
+4. **Learning (Capacitación):** Gamificación y talleres para adopción de nuevas tecnologías.
 
 ---
 
 ## 🧭 Índice Rápido
 
-- [📍 Fases de Implementación](#-fases-de-implementación)
-- [🎯 Objetivos del Negocio](#-objetivos-del-negocio)
-- [📈 Propuesta Estratégica (Aportes de Carolina)](#-propuesta-estratégica-aportes-de-carolina)
-- [🎯 Plan de Acción Inicial (Propuesta de Yefer)](#-plan-de-acción-inicial-propuesta-de-yefer)
-- [✅ Lista de Tareas (Checklist)](#-lista-de-tareas-checklist)
-- [🧠 Memoria de Agentes AI](agentes/README.md)
+- [📍 Roadmap de Implementación](#-roadmap-de-implementación)
+- [✅ Plan de Acción: Fase 1 (Checklist)](#-plan-de-acción-fase-1-checklist-operativo)
+- [🔗 Enlaces Rápidos](#-enlaces-rápidos)
 
 ---
 
-## 📍 Fases de Implementación
+## 📍 Roadmap de Implementación
 
-A continuación, se detallan las fases para la puesta en marcha y consolidación de la empresa, agrupadas por hitos (épicas).
+Para asegurar un crecimiento sostenible, seguiremos un desarrollo en tres fases estratégicas. Empezaremos construyendo autoridad y casos de éxito en nichos pequeños antes de abordar servicios complejos o licitaciones masivas.
 
-### 🏗️ Épica 1: Estructuración y Legalización (Fundación)
-> **Objetivo:** Establecer las bases legales, de identidad y operativas de la empresa.
+### 🏗️ Fase 1: Fundación y Tracción Inicial (Días 0 - 90)
+> **Objetivo:** Constituir formalmente la agencia, construir presencia digital sólida y conseguir los primeros casos de éxito (portafolio) en PyMEs locales.
 
-- Definición de identidad corporativa (Nombre, Logo, Valores).
-- Legalización y registro ante entidades colombianas (Cámara de Comercio, DIAN).
-- Configuración de infraestructura básica de comunicación y operaciones.
+- **Fundación y Legal:** Definición de marca (Naming, Logos), página web básica, adquisición de líneas corporativas, registro formal en Cámara de Comercio y RUT. Es vital proyectar profesionalismo desde el día uno.
+- **Enfoque Comercial Temprano:** Venta conjunta de dos servicios de baja fricción a negocios locales:
+  1. *Contenido UGC/Reels:* Grabación y edición in-situ.
+  2. *Presencia Digital:* Optimización en Google Business Profile, QRs interoperables (Bre-B y Reseñas), y autoresponder básico en WhatsApp.
+- **Metodología:** Iniciar con proyectos piloto a precio simbólico (o gratuitos) a cambio de testimonios, elevando los precios conforme se consolida la prueba social.
 
-### 💻 Épica 2: Infraestructura Tecnológica (Lanzamiento Digital)
-> **Objetivo:** Contar con presencia digital y las herramientas para operar y atraer clientes.
+### ⚙️ Fase 2: Operaciones, DIAN y SECOP II (Meses 4 - 6)
+> **Objetivo:** Sistematizar la operación administrativa, prepararse para contratos públicos y productizar la entrega de servicios.
 
-- Desarrollo del sitio web low-cost (Vercel + Supabase, o similar).
-- Implementación del sistema contable para gestión de ReteICA/Retefuente e impuestos DIAN.
-- Creación de portafolio de servicios (Marketing, IA, Capacitación).
+- **Operaciones y Legal Avanzado:** Implementación de software contable automatizado conectado para facturación electrónica exigida por la **DIAN**.
+- **Contratación Pública:** Integración de software automático para monitorear, catalogar y participar ágilmente en procesos de licitación a través de **SECOP II**.
+- **Desarrollo Comercial:** Estandarizar los paquetes de la Fase 1 (crear SOPs) e iniciar campañas propias de pauta publicitaria para captación pasiva (*Growth*).
 
-### 🚀 Épica 3: Tracción y Primeros Clientes (Go-to-Market)
-> **Objetivo:** Validar servicios y conseguir flujo de caja inicial.
+### 🌍 Fase 3: Escalamiento y Automatización Compleja (Meses 7 - 12)
+> **Objetivo:** Atacar corporativos y desplegar sistemas de IA profundos.
 
-- Lanzamiento de campañas de anuncios propias.
-- Venta de los primeros proyectos de automatización y bots para empresas regionales.
-- Ofrecimiento de servicios de canciones/videos de IA para política y publicidad.
-
-### 🌍 Épica 4: Consolidación y Escalamiento (Expansión)
-> **Objetivo:** Escalar operaciones, estandarizar procesos y ampliar catálogo.
-
-- Desarrollo de software propio (Juegos de capacitación empresarial).
-- Contratación/ampliación de personal y delegación de roles.
-- Optimización de procesos internos con agentes de IA.
+- **Foco Comercial:** Con una empresa formal y portafolio verificable, atacar el segmento corporativo grande (ej. Ecopetrol, empresas minero-energéticas, gran retail).
+- **Servicios Avanzados:** Venta de CRMs fuertemente integrados, desarrollo de agentes de IA conversacional a medida y sistemas de gamificación corporativa para capacitación interna.
 
 ---
 
-## 🎯 Objetivos del Negocio
+## ✅ Plan de Acción: Fase 1 (Checklist Operativo)
 
-### 🏃 Corto Plazo
-- **Branding:** Definir la identidad visual y nominal de la empresa (Nombre, Logo).
-- **Legalidad:** Completar el registro legal y comercial (RUES, Cámara de Comercio, RUT).
-- **Setup:** Adquirir las herramientas básicas (Dominio, Sim Card, Cuentas de Correo).
-- **Presencia:** Publicar la primera versión del sitio web (Landing Page).
-- **Servicios:** Definir claramente el portafolio y los códigos CIUU correctos.
+Este es el backlog inmediato de ejecución para los primeros 90 días, organizado secuencialmente.
 
-### 🚶 Mediano Plazo
-- **Contabilidad:** Implementar/adoptar software contable eficiente (ahorro en costos fijos y facilitar DIAN).
-- **Ventas IA:** Cerrar los primeros 3 a 5 contratos de bots/automatizaciones con empresas de la región.
-- **Campañas:** Participar en al menos 2 campañas (políticas/comerciales) proveyendo canciones o videos IA.
-- **Finanzas:** Consolidar flujo de caja para cubrir los costos fijos iniciales.
-- **Educación:** Estructurar el área de capacitaciones con un producto mínimo viable (juego/taller).
+### 1️⃣ Fundación, Branding y Legal (Semanas 1-4)
+- [ ] 🎨 **Marca:** Definición de Naming y diseño de Identidad Visual (Logo, paleta de colores).
+- [ ] 🔍 **Registro:** Validación de homonimia en RUES y registro formal constitutivo (Cámara de Comercio, RUT).
+- [ ] 🌐 **Activos Digitales:** Adquisición de Dominio web y compra de SIM Card Empresarial.
+- [ ] 💻 **Sitio Web:** Despliegue de página web MVP (presencia básica y profesional para generar autoridad).
+- [ ] 📧 **Comunicaciones:** Setup de correo corporativo institucional y apertura de redes sociales.
 
----
+### 2️⃣ Preparación de la Oferta Piloto (Semanas 5-6)
+- [ ] 💰 **Pricing:** Definir el precio de entrada base para el paquete inicial de contenido/Reels.
+- [ ] 📱 **QRs:** Definir proveedor o stack para generación de QRs (Pagos Bre-B, Reseñas de Google) y diseñar plantillas alineadas con nuestra nueva marca.
+- [ ] 💬 **WhatsApp:** Redactar, probar y activar el flujo del autoresponder básico en WhatsApp Business.
+- [ ] 👥 **Roles:** Asignar responsabilidades dentro del equipo (ej. quién asume el contacto comercial vs. quién hace grabación/edición presencial).
 
-## ✅ Lista de Tareas (Checklist Operativo)
+### 3️⃣ Go-to-Market y Portafolio Real (Semanas 7-12)
+- [ ] 🎯 **Prospección:** Mapear una lista cerrada de 3 a 5 negocios locales objetivo (cafés, restaurantes conocidos o referidos).
+- [ ] 🎬 **Piloto 0 (Demo):** Ejecutar "Cliente Piloto 0" mediante trabajo especulativo gratis. El entregable real es documentar el caso y conseguir nuestro primer testimonio sólido en video.
+- [ ] 🚀 **Piloto 1 (Cierre):** Cerrar el "Cliente Piloto 1" a precio de entrada. Entregar paquete de Reels + Optimización Google Business Profile + Instalación de QRs físicos.
+- [ ] 📈 **Escalamiento de Valor:** Vender y ejecutar a Clientes 2 y 3, ajustando la tarifa al alza, basando el valor en los casos de éxito previamente demostrados.
 
-A continuación, el backlog de tareas necesarias para iniciar y estructurar la empresa, priorizando buenas prácticas para evitar dolores de cabeza operativos.
-
-### 1️⃣ Identidad y Activos Digitales Iniciales
-- [ ] 📛 **Definición de Naming:** Escoger nombre de la empresa y asegurar que sea memorable.
-- [ ] 🔍 **Validación en RUES:** Buscar disponibilidad de homonimia en el Registro Único Empresarial y Social.
-- [ ] 🌐 **Adquisición de Dominio:** Comprar el dominio de la empresa (ej. `.com` o `.co`) en proveedores como Namecheap o GoDaddy para asegurar la marca en internet.
-- [ ] 📱 **Compra de SIM Card Empresarial:** Adquirir una línea telefónica exclusiva para la empresa *antes* de registrarse legalmente. (Crucial para usar en el formulario de Cámara de Comercio y RUT, evitando que las bases de datos públicas inunden tu celular personal de spam).
-- [ ] 📧 **Estrategia de Correos:** Definir si arrancar con un Gmail básico (`empresa@gmail.com`) o configurar de inmediato un correo corporativo gratuito (`contacto@empresa.com`) usando herramientas como Zoho Mail. Esto será clave para usarlo en todos los registros formales.
-- [ ] 🎨 **Branding Básico:** Diseño de logo corporativo y paleta de colores.
-- [ ] 👕 **Merchandising:** (Opcional) Diseñar/comprar camisas con el logo para asistir a reuniones con clientes presenciales y generar autoridad.
-
-### 2️⃣ Legal, Financiero y Administrativo
-- [ ] 🤝 **Acuerdo de Socios:** Documentar roles, porcentaje de participación y líneas de negocio detalladas.
-- [ ] 📋 **Selección de Códigos CIUU:** Definir las actividades económicas correctas (ej. Desarrollo de software, agencias de publicidad, educación no formal) para evitar requerimientos o multas futuras de la DIAN.
-- [ ] 🏢 **Registro en Cámara de Comercio:** Constituir formalmente la empresa (SAS sugerido) utilizando exclusivamente el correo y teléfono empresarial que ya compramos.
-- [ ] 📑 **Trámite de RUT:** Obtener el Registro Único Tributario ante la DIAN y habilitar las responsabilidades fiscales necesarias (como facturador electrónico).
-- [ ] 🏦 **Bancarización:** Apertura de cuenta bancaria empresarial para separar las finanzas personales de las del negocio.
-- [ ] 🧾 **Sistema Contable y Facturación:** Desarrollar o contratar software de bajo costo (ej. Alegra, Siigo, o un desarrollo propio gestionado por nosotros) para control de ReteIVA, Retefuente, facturación electrónica y presentación en el portal DIAN, optimizando así el costo fijo mensual de un contador.
-
-### 3️⃣ Operaciones y Procesos
-- [ ] 👥 **Estructura Organizacional:** Asignación clara de áreas a cargo de cada socio (Ventas, Tecnología/IA, Operaciones).
-- [ ] 💰 **Presupuesto Semilla:** Levantar matriz de costos iniciales (registro legal, SIM, dominio, transporte, hosting) y fondear la caja inicial.
-- [ ] 📂 **Gestión de Conocimiento:** Centralizar toda la documentación y claves en este repositorio GitHub/Docsify (nuestro Single Source of Truth).
-- [ ] 💬 **WhatsApp Business:** Configurar el perfil de empresa en el celular corporativo con catálogo, horarios de atención y mensajes automatizados (primer punto de contacto de IA simple).
-
-### 4️⃣ Tecnología y Go-to-Market
-- [ ] 💻 **Despliegue Web MVP:** Desarrollar sitio web inicial "low-cost" pero de alta conversión (Opciones: Vercel + Supabase, o una Landing Page optimizada).
-- [ ] 🎶 **Pipeline de Audio IA:** Estructurar el proceso estándar para la creación, revisión y entrega de canciones con IA (para jingles políticos y comerciales).
-- [ ] 📹 **Protocolos de Video IA:** Definir stack de herramientas y el marco ético/legal (uso de derechos de imagen) para los videos generados.
-- [ ] 🤖 **Portafolio B2B Automation:** Empaquetar los servicios de creación de bots y automatización para que sean fáciles de vender a PyMEs de la región.
-- [ ] 🎓 **Estructuración Educativa:** Planificar los módulos del primer juego empresarial corporativo impulsado por IA.
-
----
-
-## 📈 Propuesta Estratégica (Aportes de Carolina)
-
-*Nota: Esta sección integra la arquitectura estratégica propuesta por Carolina para complementar el plan de implementación, enfocándose en validación de mercado, posicionamiento y escalamiento.*
-
-### 1. Diferencia Principal de Enfoque
-- **Plan actual (Implementación):** Fases, objetivos, tareas, legalización, primeros clientes.
-- **Aporte estratégico (Carolina):** Arquitectura para decidir qué empresa construir, cómo validarla y cómo hacerla crecer. Define mercado, cliente ideal, modelo económico y métricas de dirección.
-
-Ambas capas son complementarias: la estrategia define el rumbo y el plan operativo lo ejecuta.
-
-### 2. Decisiones y Elementos Clave
-- **De servicios a problemas:** En lugar de ofrecer "Marketing + IA", se enfoca en ofrecer soluciones a problemas empresariales concretos (ej. fricción en ventas, captación de demanda, producción de contenido).
-- **De tareas a decisiones:** Implementar un ciclo continuo de **Estrategia → Hipótesis → Validación → Decisión → Ejecución → KPI**.
-- **Arquitectura de Oferta (4 pilares):**
-  1. **Growth (Captación):** Ads, funnels, analítica.
-  2. **AI & Automation (Productividad):** Bots, CRM, automatizaciones.
-  3. **AI Content (Producción creativa):** Video/audio asistido por IA.
-  4. **Learning (Capacitación):** Gamificación y talleres.
-- **Economía del negocio:** Analizar margen, recurrencia, costo de adquisición (CAC) y valor del cliente (LTV) como pasos posteriores a conseguir los primeros contratos.
-
-### 3. Integración Sugerida
-
-```text
-ESTRATEGIA (Mercado → Posicionamiento → Oferta → Modelo Económico)
-   ↓
-SISTEMA COMERCIAL (Validación de Oferta)
-   ↓
-ROADMAP Y FASES (El plan operativo actual)
-   ↓
-OPERACIÓN (KPIs → Aprendizaje Continuo)
-```
----
-
-## 🎯 Plan de Acción Inicial (Propuesta de Yefer)
-
-*Detalle completo en [`agentes/plan_accion_inicial.md`](agentes/plan_accion_inicial.md).*
-
-Aterriza la estrategia de Carolina en algo ejecutable en los primeros 90 días, con dos líneas de servicio (no más, para mantener foco):
-
-1. **Video/contenido UGC para pequeños negocios** — grabación y edición de Reels en sitio, empezando con trabajo especulativo, ofertas de bajo compromiso y precio simbólico a cambio de testimonio.
-2. **Presencia digital local** — optimización de Google Business Profile + QR de reseñas + QR de pagos interoperable (Bre-B) + WhatsApp autoresponder simple.
-
-Automatización compleja, desarrollo web y clientes corporativos grandes (Ecopetrol y similares) quedan propuestos para una fase posterior, una vez existan casos documentados y portafolio real — la madurez digital baja de las PyMEs colombianas hace que venderlos ahora, sin trayectoria, sea más difícil de lo necesario.
 ---
 
 ## 🔗 Enlaces Rápidos
