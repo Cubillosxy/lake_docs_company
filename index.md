@@ -22,6 +22,7 @@ Somos una agencia innovadora en Colombia enfocada en la intersección del **Mark
 - [📍 Fases de Implementación](#-fases-de-implementación)
 - [🎯 Objetivos del Negocio](#-objetivos-del-negocio)
 - [📈 Propuesta Estratégica (Aportes de Carolina)](#-propuesta-estratégica-aportes-de-carolina)
+- [🎯 Plan de Acción Inicial (Propuesta de Yefer)](#-plan-de-acción-inicial-propuesta-de-yefer)
 - [✅ Lista de Tareas (Checklist)](#-lista-de-tareas-checklist)
 - [🧠 Memoria de Agentes AI](agentes/README.md)
 
@@ -146,7 +147,18 @@ ROADMAP Y FASES (El plan operativo actual)
    ↓
 OPERACIÓN (KPIs → Aprendizaje Continuo)
 ```
+---
 
+## 🎯 Plan de Acción Inicial (Propuesta de Yefer)
+
+*Detalle completo en [`agentes/plan_accion_inicial.md`](agentes/plan_accion_inicial.md).*
+
+Aterriza la estrategia de Carolina en algo ejecutable en los primeros 90 días, con dos líneas de servicio (no más, para mantener foco):
+
+1. **Video/contenido UGC para pequeños negocios** — grabación y edición de Reels en sitio, empezando con trabajo especulativo, ofertas de bajo compromiso y precio simbólico a cambio de testimonio.
+2. **Presencia digital local** — optimización de Google Business Profile + QR de reseñas + QR de pagos interoperable (Bre-B) + WhatsApp autoresponder simple.
+
+Automatización compleja, desarrollo web y clientes corporativos grandes (Ecopetrol y similares) quedan propuestos para una fase posterior, una vez existan casos documentados y portafolio real — la madurez digital baja de las PyMEs colombianas hace que venderlos ahora, sin trayectoria, sea más difícil de lo necesario.
 ---
 
 ## 🔗 Enlaces Rápidos
