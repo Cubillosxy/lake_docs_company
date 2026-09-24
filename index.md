@@ -78,7 +78,8 @@ Este es el backlog inmediato de ejecución para los primeros 90 días, organizad
 
 - 💻 **Repositorio en GitHub:** [cubillosxy/lake_docs_company](https://github.com/cubillosxy/lake_docs_company) *(Entra aquí para hacer Fork y colaborar)*
 - 📄 **Guía de Colaboración:** [Manual para Humanos y Agentes de IA](agentes/README.md)
-- 🌐 **Dashboard en Vivo:** [Sitio en GitHub Pages](https://cubillosxy.github.io/lake_docs_company/#/)
+- 🌐 **Documentación en Vivo:** [Sitio en GitHub Pages](https://cubillosxy.github.io/lake_docs_company/#/)
+- 📋 **Tablero Kanban (Fase 1):** [Dashboard de Tareas](https://cubillosxy.github.io/lake_company_dashboard/)
 
 ---
 *Hecho con 🤖 en 🇨🇴 para el futuro de Colombia.*
