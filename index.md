@@ -55,10 +55,11 @@ Este es el backlog inmediato de ejecución para los primeros 90 días, organizad
 
 ### 1️⃣ Fundación, Branding y Legal (Semanas 1-4)
 - [ ] 🎨 **Marca:** Definición de Naming y diseño de Identidad Visual (Logo, paleta de colores).
-- [ ] 🔍 **Registro:** Validación de homonimia en RUES y registro formal constitutivo (Cámara de Comercio, RUT).
+- [ ] 🔍 **Investigación:** Validar homonimia en RUES e investigar costos/tiempos exactos de constitución legal de la empresa.
 - [ ] 🌐 **Activos Digitales:** Adquisición de Dominio web y compra de SIM Card Empresarial.
 - [ ] 💻 **Sitio Web:** Despliegue de página web MVP (presencia básica y profesional para generar autoridad).
 - [ ] 📧 **Comunicaciones:** Setup de correo corporativo institucional y apertura de redes sociales.
+- [ ] 🏢 **Constitución Legal:** (Post-Web) Registro formal constitutivo en Cámara de Comercio y obtención del RUT, usando los activos ya creados.
 
 ### 2️⃣ Preparación de la Oferta Piloto (Semanas 5-6)
 - [ ] 💰 **Pricing:** Definir el precio de entrada base para el paquete inicial de contenido/Reels.
