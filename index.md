@@ -55,11 +55,10 @@ Este es el backlog inmediato de ejecución para los primeros 90 días, organizad
 
 ### 1️⃣ Fundación, Branding y Legal (Semanas 1-4)
 - [ ] 🎨 **Marca:** Definición de Naming y diseño de Identidad Visual (Logo, paleta de colores).
-- [ ] 🔍 **Investigación:** Validar homonimia en RUES e investigar costos/tiempos exactos de constitución legal de la empresa.
+- [ ] 🔍 **Investigación:** Validar homonimia en RUES, investigar costos/tiempos de constitución, y averiguar mínimo de personas para conformar SAS en Colombia.
 - [ ] 🌐 **Activos Digitales:** Adquisición de Dominio web y compra de SIM Card Empresarial.
 - [ ] 💻 **Sitio Web:** Despliegue de página web MVP (presencia básica y profesional para generar autoridad).
 - [ ] 📧 **Comunicaciones:** Setup de correo corporativo institucional y apertura de redes sociales.
-- [ ] 🏢 **Constitución Legal:** (Post-Web) Registro formal constitutivo en Cámara de Comercio y obtención del RUT, usando los activos ya creados.
 
 ### 2️⃣ Preparación de la Oferta Piloto (Semanas 5-6)
 - [ ] 💰 **Pricing:** Definir el precio de entrada base para el paquete inicial de contenido/Reels.
@@ -70,6 +69,7 @@ Este es el backlog inmediato de ejecución para los primeros 90 días, organizad
 ### 3️⃣ Go-to-Market y Portafolio Real (Semanas 7-12)
 - [ ] 🎯 **Prospección:** Mapear una lista cerrada de 3 a 5 negocios locales objetivo (cafés, restaurantes conocidos o referidos).
 - [ ] 🎬 **Piloto 0 (Demo):** Ejecutar "Cliente Piloto 0" mediante trabajo especulativo gratis. El entregable real es documentar el caso y conseguir nuestro primer testimonio sólido en video.
+- [ ] 🏢 **Constitución Legal:** Registro formal constitutivo en Cámara de Comercio y obtención del RUT (A realizar una vez se hayan probado las primeras interacciones comerciales).
 - [ ] 🚀 **Piloto 1 (Cierre):** Cerrar el "Cliente Piloto 1" a precio de entrada. Entregar paquete de Reels + Optimización Google Business Profile + Instalación de QRs físicos.
 - [ ] 📈 **Escalamiento de Valor:** Vender y ejecutar a Clientes 2 y 3, ajustando la tarifa al alza, basando el valor en los casos de éxito previamente demostrados.
 
