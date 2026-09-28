@@ -54,11 +54,11 @@ Para asegurar un crecimiento sostenible, seguiremos un desarrollo en tres fases 
 Este es el backlog inmediato de ejecución para los primeros 90 días, organizado secuencialmente.
 
 ### 1️⃣ Fundación, Branding y Legal (Semanas 1-4)
-- [ ] 🎨 **Marca:** Definición de Naming y diseño de Identidad Visual (Logo, paleta de colores).
+- [x] 🎨 **Marca:** Definición de Naming y diseño de Identidad Visual. *(Terminado: Naming "Cattharsys", Logo disponible en Drive).*
 - [x] 🔍 **Investigación:** Validar homonimia en RUES, investigar costos/tiempos de constitución, y averiguar mínimo de personas para conformar SAS en Colombia. *(Terminado: Ver [Resultados de Investigación](agentes/investigacion_legal.md))*
 - [ ] 🌐 **Activos Digitales:** Adquisición de Dominio web y compra de SIM Card Empresarial.
 - [ ] 💻 **Sitio Web:** Despliegue de página web MVP (presencia básica y profesional para generar autoridad).
-- [ ] 📧 **Comunicaciones:** Setup de correo corporativo institucional y apertura de redes sociales.
+- [x] 📧 **Comunicaciones:** Setup de correo corporativo institucional y apertura de redes sociales. *(Terminado: cattharsys@gmail.com).*
 
 ### 2️⃣ Preparación de la Oferta Piloto (Semanas 5-6)
 - [ ] 💰 **Pricing:** Definir el precio de entrada base para el paquete inicial de contenido/Reels.
