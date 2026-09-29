@@ -54,11 +54,11 @@ Para asegurar un crecimiento sostenible, seguiremos un desarrollo en tres fases 
 Este es el backlog inmediato de ejecución para los primeros 90 días, organizado secuencialmente.
 
 ### 1️⃣ Fundación, Branding y Legal (Semanas 1-4)
-- [x] 🎨 **Marca:** Definición de Naming y diseño de Identidad Visual. *(Terminado: Naming "Cattharsys", Logo disponible en Drive).*
-- [x] 🔍 **Investigación:** Validar homonimia en RUES, investigar costos/tiempos de constitución, y averiguar mínimo de personas para conformar SAS en Colombia. *(Terminado: "Cattharsys" disponible en RUES. Ver [Resultados de Investigación](agentes/investigacion_legal.md))*
-- [ ] 🌐 **Activos Digitales:** Adquisición de Dominio web y compra de SIM Card Empresarial.
-- [ ] 💻 **Sitio Web:** Despliegue de página web MVP (presencia básica y profesional para generar autoridad).
-- [x] 📧 **Comunicaciones:** Setup de correo corporativo institucional y apertura de redes sociales. *(Terminado: cattharsys@gmail.com).*
+- [x] 🎨 **Marca:** Definición de Naming y diseño de Identidad Visual. *(Terminado: Naming "Intelicat", Logo en proceso/Drive).*
+- [x] 🔍 **Investigación:** Validar homonimia en RUES, investigar costos/tiempos de constitución, y averiguar mínimo de personas para conformar SAS en Colombia. *(Terminado: "Intelicat" disponible. Ver [Resultados de Investigación](agentes/investigacion_legal.md))*
+- [x] 🌐 **Activos Digitales:** Adquisición de Dominio web y compra de SIM Card Empresarial. *(Terminado: intelicat.com adquirido)*.
+- [x] 💻 **Sitio Web:** Despliegue de página web MVP (presencia básica y profesional para generar autoridad). *(Terminado: Flujo de Vercel habilitado para intelicat.com).*
+- [x] 📧 **Comunicaciones:** Setup de correo corporativo institucional y apertura de redes sociales. *(Terminado: Correos configurados bajo la nueva marca).*
 
 ### 2️⃣ Preparación de la Oferta Piloto (Semanas 5-6)
 - [ ] 💰 **Pricing:** Definir el precio de entrada base para el paquete inicial de contenido/Reels.
