@@ -56,14 +56,14 @@ Este es el backlog inmediato de ejecución para los primeros 90 días, organizad
 ### 1️⃣ Fundación, Branding y Legal (Semanas 1-4)
 - [x] 🎨 **Marca:** Definición de Naming y diseño de Identidad Visual. *(Terminado: Naming "Intelicat", Logo en proceso/Drive).*
 - [x] 🔍 **Investigación:** Validar homonimia en RUES, investigar costos/tiempos de constitución, y averiguar mínimo de personas para conformar SAS en Colombia. *(Terminado: "Intelicat" disponible. Ver [Resultados de Investigación](agentes/investigacion_legal.md))*
-- [x] 🌐 **Activos Digitales:** Adquisición de Dominio web y compra de SIM Card Empresarial. *(Terminado: intelicat.com adquirido)*.
+- [x] 🌐 **Activos Digitales:** Adquisición de Dominio web y compra de SIM Card Empresarial. *(Terminado: intelicat.com adquirido y SIM Card empresarial activa)*.
 - [x] 💻 **Sitio Web:** Despliegue de página web MVP (presencia básica y profesional para generar autoridad). *(Terminado: Flujo de Vercel habilitado para intelicat.com).*
-- [x] 📧 **Comunicaciones:** Setup de correo corporativo institucional y apertura de redes sociales. *(Terminado: Correos configurados bajo la nueva marca).*
+- [x] 📧 **Comunicaciones:** Setup de correo corporativo institucional y apertura de redes sociales. *(Terminado: Correos y cuenta de WhatsApp Business creados).*
 
 ### 2️⃣ Preparación de la Oferta Piloto (Semanas 5-6)
 - [ ] 💰 **Pricing:** Definir el precio de entrada base para el paquete inicial de contenido/Reels.
 - [ ] 📱 **QRs:** Definir proveedor o stack para generación de QRs (Pagos Bre-B, Reseñas de Google) y diseñar plantillas alineadas con nuestra nueva marca.
-- [ ] 💬 **WhatsApp:** Redactar, probar y activar el flujo del autoresponder básico en WhatsApp Business.
+- [ ] 💬 **WhatsApp:** Redactar, probar y activar el flujo del autoresponder básico en WhatsApp Business. *(Cuenta abierta; pendiente configuración avanzada).*
 - [ ] 👥 **Roles:** Asignar responsabilidades dentro del equipo (ej. quién asume el contacto comercial vs. quién hace grabación/edición presencial).
 
 ### 3️⃣ Go-to-Market y Portafolio Real (Semanas 7-12)
